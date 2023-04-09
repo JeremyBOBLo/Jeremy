@@ -1,1 +1,1 @@
-# Jeremy
+# 2-D platformer
